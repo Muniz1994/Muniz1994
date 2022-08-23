@@ -1,6 +1,6 @@
-<h3 align="center">Sustainable Construction and Rehabilitation of Buildings Master's student at Universidade do Minho - UMinho</h3>
+<h3 align="left">Sustainable Construction and Rehabilitation of Buildings Master's student at Universidade do Minho - UMinho</h3>
 
-- 📫 How to reach me **eng.brunomuniz@outlook.com**
+📫 How to reach me **eng.brunomuniz@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
