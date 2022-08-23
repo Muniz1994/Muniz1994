@@ -1,4 +1,3 @@
-### Hi there 👋
 <h3 align="center">Sustainable Construction and Rehabilitation of Buildings Master's student at Universidade do Minho - UMinho</h3>
 
 - 📫 How to reach me **eng.brunomuniz@outlook.com**
