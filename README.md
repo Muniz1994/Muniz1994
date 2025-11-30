@@ -1,4 +1,4 @@
-<h3 align="left">Sustainable Construction and Rehabilitation of Buildings Master's student at Universidade do Minho - UMinho</h3>
+<h3 align="left">Civil Engineering PhD student at Universidade do Minho - UMinho</h3>
 
 📫 How to reach me **eng.brunomuniz@outlook.com**
 
